@@ -1,0 +1,4 @@
+#Sun Dec 02 23:36:15 IRST 2018
+base.0=D\:\\test\\MyNewAppProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
